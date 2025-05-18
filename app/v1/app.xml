@@ -71,19 +71,19 @@
 
 
 		<son picto="picto10" posPicto="40,80">
-			<swf>costume-v1/11_nugu.swf</swf>
+			<swf>costume-v1/11.swf</swf>
 			<mp3>sound-v1/11_nugu_a.mp3</mp3>
 		</son>
 		<son picto="picto11" posPicto="40,80">
-			<swf>costume-v1/12_guit.swf</swf>
+			<swf>costume-v1/12.swf</swf>
 			<mp3>sound-v1/12_guit_a.mp3</mp3>
 		</son>
 		<son picto="picto12" posPicto="40,80">
-			<swf>costume-v1/13_tromp.swf</swf>
+			<swf>costume-v1/13.swf</swf>
 			<mp3>sound-v1/13_tromp_a.mp3</mp3>
 		</son>
 		<son picto="picto13" posPicto="40,80">
-			<swf>costume-v1/14_pouin.swf</swf>
+			<swf>costume-v1/14.swf</swf>
 			<mp3>sound-v1/14_pouin_a.mp3</mp3>
 		</son>
 		<son picto="picto14" posPicto="40,80">
